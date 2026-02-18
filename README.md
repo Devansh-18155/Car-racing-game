@@ -32,7 +32,7 @@ Avoid the obstacles and try to beat your high score!
 
 1. Download or clone the repository:
 
-   git clone https://github.com/your-username/car-racing-game.git
+   git clone [https://github.com/your-username/car-racing-game.git](https://devansh-18155.github.io/Car-racing-game/)
 
 2. Open the project folder
 3. Open `index.html` in your browser
